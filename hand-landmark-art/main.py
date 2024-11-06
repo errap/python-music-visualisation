@@ -1,3 +1,13 @@
+# ========================================================
+# Author: Erra P.
+# GitHub: https://github.com/errap
+# Date Created: November 5, 2024
+#
+# Special Thanks:
+# - Special thanks to omegaOverride (https://github.com/omega0verride/Python-Realtime-Audio-Visualizer/tree/main) for the
+#   inspiration and code direction.
+# ========================================================
+
 import cv2
 import mediapipe
 import pygame
