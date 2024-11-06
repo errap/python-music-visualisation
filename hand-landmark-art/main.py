@@ -1,10 +1,10 @@
 # ========================================================
 # Author: Erra P.
 # GitHub: https://github.com/errap
-# Date Created: November 5, 2024
+# Date Created: November 4, 2024
 #
 # Special Thanks:
-# - Special thanks to omegaOverride (https://github.com/omega0verride/Python-Realtime-Audio-Visualizer/tree/main) for the
+# - Special thanks to Luka Jovanovic (https://github.com/nelimalu/python/tree/main/hand-detection) for the
 #   inspiration and code direction.
 # ========================================================
 
