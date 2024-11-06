@@ -1,3 +1,13 @@
+# ========================================================
+# Author: Erra P.
+# GitHub: https://github.com/errap
+# Date Created: November 6, 2024
+#
+# Special Thanks:
+# - Special thanks to Luka Jovanovic (https://github.com/nelimalu/python/tree/main/hand-detection) for the
+#   inspiration and code direction.
+# ========================================================
+
 import cv2
 import mediapipe
 import pygame
